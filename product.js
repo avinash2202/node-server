@@ -1,0 +1,3 @@
+getProductDetails = ()=> {
+
+}

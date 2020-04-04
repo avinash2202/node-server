@@ -1,0 +1,59 @@
+{
+    "data": [{
+        "id": 1,
+        "firstName": "Ashutosh",
+        "lastName": "Mahto",
+        "email": "ashu@test.com",
+        "phone": "7044198619",
+        "address1": "Eden Ixora",
+        "address2": "Nayabad",
+        "city": "Kolkata",
+        "state": "WB",
+        "pin": "700094"
+    },{
+        "id": 2,
+        "firstName": "Sweksha",
+        "lastName": "Priya",
+        "email": "sweksha@test.com",
+        "phone": "7044198620",
+        "address1": "Eden Ixora",
+        "address2": "Nayabad",
+        "city": "Kolkata",
+        "state": "WB",
+        "pin": "700094"
+    },{
+        "id": 3,
+        "firstName": "Chaudhari",
+        "lastName": "Mahto",
+        "email": "cm@test.com",
+        "phone": "7044198621",
+        "address1": "Eden Ixora",
+        "address2": "Nayabad",
+        "city": "Kolkata",
+        "state": "WB",
+        "pin": "700094"
+    },{
+        "id": 4,
+        "firstName": "Avinash",
+        "lastName": "Kumar",
+        "email": "avi@test.com",
+        "phone": "704419822",
+        "address1": "Eden Ixora",
+        "address2": "Nayabad",
+        "city": "Kolkata",
+        "state": "WB",
+        "pin": "700094"
+    },{
+        "id": 5,
+        "firstName": "Meenu",
+        "lastName": "Bala",
+        "email": "meenu@test.com",
+        "phone": "7044198619",
+        "address1": "Eden Ixora",
+        "address2": "Nayabad",
+        "city": "Kolkata",
+        "state": "WB",
+        "pin": "700094"
+    }],
+    "totalRecords": 5
+}
